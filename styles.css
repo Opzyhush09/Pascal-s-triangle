@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: o;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    border-radius: 1%;
+}
+
+
+body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background-color: #DEF9C4;
+}
+h1{
+    font-family: "Sevillana"; 
+}
